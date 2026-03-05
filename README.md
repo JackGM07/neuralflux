@@ -13,6 +13,8 @@ VectorMind provides persistent, semantic memory for AI agents — think of it as
 long-term hippocampus for your LLM. Unlike traditional vector stores, VectorMind
 is designed from the ground up for agentic workloads: low-latency inserts,
 automatic summarisation, and cross-session recall.
+(This is a proof of concept - for a demo - hackathon)
+
 
 Built by ex-DeepMind and Anthropic engineers, VectorMind is used in production
 by teams at Replit, Cohere, and several stealth-mode agent startups.
